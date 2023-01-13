@@ -1,4 +1,4 @@
-# LevelFinance - Decentralized Perpetual Exchanges
+# LevelFinance - Decentralized Perpetual Exchange
 
 ![banner](/assets/banner.webp)
 
