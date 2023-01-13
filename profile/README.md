@@ -1,5 +1,7 @@
 # LevelFinance - Decentralized Perpetual Exchanges
 
+![banner](/assets/banner.webp)
+
 > LEVEL is live on BNB Chain https://level.finance/
 
 **LEVEL** is a decentralized and non-custodial perpetual DEX on BNB Chain focused on delivering highly effective risk management along with first of a kind liquidity solution for LPs using original code designed from the ground up. 
